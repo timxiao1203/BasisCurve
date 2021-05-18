@@ -64,7 +64,10 @@ Optimization
 	FinPricing employs the Levenberg-Marquardt algorithm for root finding, which is very common in curve construction.
 	Another popular algorithm is the Excel Solver, especially in Excel application.
 
+Reference:
 
-You can find more details at
 https://finpricing.com/lib/IrCurveIntroduction.html
+
+https://bitbucket.org/timxiao1203/irbasiscurve/downloads/IrBasisCurve-3.pdf
+
 
