@@ -67,7 +67,3 @@ Optimization
 Reference:
 
 https://finpricing.com/lib/IrCurveIntroduction.html
-
-https://bitbucket.org/timxiao1203/irbasiscurve/downloads/IrBasisCurve-3.pdf
-
-
